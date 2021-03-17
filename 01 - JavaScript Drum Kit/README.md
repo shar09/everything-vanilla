@@ -39,4 +39,4 @@
 
 - Audio Element: @ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio
 - Audio/Video Methods: @ https://www.w3schools.com/tags/ref_av_dom.asp
-- Kbd Element: @ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/kbd#echoed_input
+- kbd Element: @ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/kbd#echoed_input
