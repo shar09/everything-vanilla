@@ -2,7 +2,7 @@
 
 ### Key Learnings
 
-**transition**
+**transition and transform**
 
 - transition: [property] [duration] [timing-function] [delay];
 - transform-origin: 100% to rotate hands from extreme right end. By default rotation is done center (50%).
@@ -13,7 +13,7 @@
 - Absolute: Always relative to it's parent or viewport. Element is taken out of normal flow of document.
 - Fixed: Always relative to viewport. Element is taken out of normal flow of document.
 
-**Set Interval**
+**setInterval function**
 
 - Calls the function at every specified interval.
 
@@ -31,3 +31,4 @@
 
 - CSS Position: @ https://www.youtube.com/watch?v=jx5jmI0UlXU
 - CSS Animation: @ https://scrimba.com/learn/cssanimations
+- CSS Transform: @ https://developer.mozilla.org/en-US/docs/Web/CSS/transform
