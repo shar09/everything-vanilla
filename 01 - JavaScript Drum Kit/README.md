@@ -2,16 +2,20 @@
 
 ### Key Learnings
 
-```<audio>```
+**<audio>**
 
 - Audio element is not displayed if controls attribute is not specified.
 - We can have multiple audio sources in a single element, as a fallback option.
 
-```<kbd>```
+```
+<kbd>
+```
 
 - Represents keyboard element.
 
-```<blockquote>```
+```
+<blockquote>
+```
 
 - Indicates a section quoted from other source.
 
