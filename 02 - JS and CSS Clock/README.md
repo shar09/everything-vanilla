@@ -15,7 +15,7 @@
 
 **Set Interval**
 
-- Calls the function every specified interval.
+- Calls the function at every specified interval.
 
 **UTC time**
 
